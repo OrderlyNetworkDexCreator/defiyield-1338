@@ -21,7 +21,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Swap,Leaderboard,Points",
   "VITE_CUSTOM_MENUS": "Home, https://www.defiyield.live; Bet on Sports, https://betsorted.co.za; API ACCESS, https://dex.defiyield.live/portfolio/api-key; Hyperliquid, https://app.hyperliquid.xyz/join/DEFIYIELD",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
-  "VITE_ENABLE_CAMPAIGNS": "true",
+  "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "https://www.x.com/alphaxasset",
