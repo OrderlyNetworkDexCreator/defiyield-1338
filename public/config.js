@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "The hub for delta neutral strategies",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard",
+  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Swap,Leaderboard,Vaults,Points,Rewards",
   "VITE_CUSTOM_MENUS": "Bet on Sports, https://betsorted.co.za; API ACCESS, https://dex.defiyield.live/portfolio/api-key",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "true",
